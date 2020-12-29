@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">LoadApp</string>
+    <string name="app_description">Download files from Internet</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="notification_title">Udacity: Android Kotlin Nanodegree </string>
+    <string name="notification_description">The Project 3 repository is downloaded</string>
+    <string name="notification_button">See changes</string>
+
+    <string name="button_name">Click me</string>
+    <string name="button_loading">We are loading </string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="radio_glide">Glide - Image Loading Library by Bump Tech</string>
+    <string name="radio_app">LoadApp - Current repository by Udacity</string>
+    <string name="radio_retrofit">Retrofit - Type-Safe HTTP client for Android and Java by Square, Inc</string>
+
+    <string name="radio_glide_repo">https://github.com/bumptech/glide/archive/master.zip</string>
+    <string name="radio_app_repo">https://github.com/udacity/nd940-c3-advanced-android-programming-project-starter/archive/master.zip</string>
+    <string name="radio_retrofit_repo">https://github.com/square/retrofit/archive/master.zip</string>
+
+    <string name="filename_glide">glide-repo.zip</string>
+    <string name="filename_loadapp">loadapp-repo.zip</string>
+    <string name="filename_retrofit">retrofit-repo.zip</string>
+    <string name="filename_default">repository.zip</string>
+
+    <string name="download_graphic_description">Image showing a download graphic</string>
+
+    <string name="button_state_download">Download</string>
+    <string name="button_state_loading">We are loading</string>
+    <string name="no_network_available">No Network available</string>
+    <string name="no_option_selected">Please select one of the available options for download</string>
+    <string name="download_canceled_by_user">The download was canceled by the user</string>
+    <string name="download_channel_description">Get Downloaded File Status Updates</string>
+    <string name="download_channel_id">download_status_channel</string>
+    <string name="download_channel_name">Download Status Channel</string>
+
+    <string name="notification_action_details_description">DETAILS</string>
+    <string name="notification_action_downloads_description">DOWNLOADS</string>
+
+    <string name="successful_download_message">Your download is complete</string>
+    <string name="failed_download_message">The download FAILED</string>
+    <string name="download_job_summary_extra">downloadJobSummary</string>
+    <string name="ok">OK</string>
+    <string name="file_name_label">File name</string>
+    <string name="status_label">Status</string>
+    <string name="success">Success</string>
+    <string name="fail">Fail</string>
+
+</resources>
