@@ -52,9 +52,4 @@
         app:constraintSetStart="@+id/start"
         app:autoTransition="animateToEnd"
         app:duration="1000"/>
-    <Transition
-        app:constraintSetStart="@+id/start"
-        app:constraintSetEnd="@+id/end"
-        app:autoTransition="animateToEnd"
-        app:duration="400"/>
 </MotionScene>
